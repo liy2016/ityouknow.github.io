@@ -18,8 +18,8 @@ favicon: favicon.png
 repository: liy2016/liy2016.github.io
 github_url: https://github.com/liy2016
 cnblog_url: http://www.cnblogs.com/arilee
-url: http://www.arilee.com
-enforce_ssl: ityouknow.com
+url: http://www.liy2016.com
+enforce_ssl: liy2016.com
 
 ## Gem
 plugins:
