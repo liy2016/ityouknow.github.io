@@ -16,7 +16,7 @@ encoding: "utf-8"
 favicon: favicon.png 
 
 repository: liy2016/liy2016.github.io
-github_url: https://github.com/liy2016
+github_url: http://github.com/liy2016
 cnblog_url: http://www.cnblogs.com/arilee
 url: http://liy2016.github.io
 enforce_ssl: liy2016.com
